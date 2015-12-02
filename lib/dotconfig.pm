@@ -4,7 +4,7 @@ use warnings;
 use Carp ();
 use Encode ();
 use Exporter 'import';
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 our @EXPORT = qw( load_config decode_config );
 
 sub load_config {

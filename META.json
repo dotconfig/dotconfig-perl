@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "dotconfig",
+   "name" : "dotconfig-perl",
    "no_index" : {
       "directory" : [
          "t",
@@ -58,6 +58,6 @@
          "web" : "https://github.com/dotconfig/dotconfig-perl"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
