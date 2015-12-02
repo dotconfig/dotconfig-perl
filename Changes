@@ -2,6 +2,9 @@ Revision history for dotconfig
 
 {{$NEXT}}
 
+0.03  2015-12-02 11:00:16 JST
+        - fight over the dist name
+
 0.02  2015-12-02 10:57:12 JST
         - fix dist name
 
