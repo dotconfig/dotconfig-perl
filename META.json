@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "deserializing dotconfig formatted file",
    "author" : [
       "punytan <punytan@gmail.com>"
    ],
@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "dotconfig",
+   "name" : "dotconfig-perl",
    "no_index" : {
       "directory" : [
          "t",
@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/dotconfig/dotconfig-perl/issues"
+      },
+      "homepage" : "https://github.com/dotconfig/dotconfig-perl",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/dotconfig/dotconfig-perl.git",
+         "web" : "https://github.com/dotconfig/dotconfig-perl"
+      }
+   },
    "version" : "0.01"
 }
 
